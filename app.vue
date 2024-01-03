@@ -42,23 +42,6 @@ useSeoMeta({
 
     <NuxtPage />
 
-    <footer class="text-center mt-2">
-      <NuxtLink
-        href="https://github.com/atinux/nuxt-todos-edge"
-        target="_blank"
-        class="text-sm text-gray-500 hover:text-gray-700"
-      >
-        GitHub
-      </NuxtLink>
-      ·
-      <NuxtLink
-        href="https://twitter.com/Atinux"
-        target="_blank"
-        class="text-sm text-gray-500 hover:text-gray-700"
-      >
-        Twitter
-      </NuxtLink>
-    </footer>
   </UContainer>
   <UNotifications />
 </template>
